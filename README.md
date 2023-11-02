@@ -4,7 +4,7 @@ Hola, soy Raúl Melgosa Salvador, graduado en Ingeniería Informática por la Un
 
 Soy una persona interesada en el mundo de la informática, y en especial en el ámbito de la programación back y desarrollo de aplicaciones de escritorio. 
 
-Tengo habilidades destacadas en programación en C, Java, C# y manejo de bases de datos SQL.
+Tengo habilidades destacadas en programación en ***C***, ***Java***, ***C#*** y manejo de bases de datos ***SQL***.
 
 ## Conocimientos
 
